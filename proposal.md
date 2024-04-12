@@ -23,6 +23,24 @@ Raw inputs will be inputs that the user enters into the dashboard. These inputs 
 ## Data Transformation Speculation
 Raw market data will be cleaned, normalized, and merged to create a comprehensive dataset. We will also then have to calculate annualized returns and volatility and Beta for each security. This may be difficult as some indexes have not been around for a long time, which brings up the question of how we get an annualized return. For example, Bitcoin ETFs are very new, so it will be difficult to generate an accurate annualized return. To account for this, we will need to research historical data and potentially have to create our own assumptions.
 
+# What the Dashboard Will Look Like
+## Inputs
+- Age
+- Retirement age
+- Desired retirement income(Taxed or Pretaxed)
+- Current savings/investments
+- Annual contribution to savings
+- Annual contribution growth rate
+- Preference for specific types of investments (e.g., Cryptocurrency, Real Estate, ESG)
+- Risk Tolerance(Some sort of scale related to this)
+- Market Outlook(Some sort of scale related to what the clients outlook on the market is)
+## Outputs
+- Portfolio Allocation: Graphs showing the allocation of investments across different asset classes (stocks, bonds, real estate, etc.) over time
+- Efficient Frontier Visualization: A plot displaying the efficient frontier based on the user’s risk tolerance and investment preferences, helping them understand the risk/reward trade-off
+- Projected Retirement Savings: A graph or series of graphs showing projected growth of the portfolio over time, including contributions and expected returns
+- Tax Implications: Visualizations showing potential tax liabilities under different investment scenarios
+- Sensitivity Analysis: Charts showing how changes in market conditions or user inputs could impact the portfolio performance
+- Comparison Scenarios: Side-by-side comparisons of traditional vs. non-traditional investment strategies (like inclusion of ESG or cryptocurrency) under various market scenarios
 
 
 
