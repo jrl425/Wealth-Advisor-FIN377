@@ -6,7 +6,7 @@ The broader issue at hand is the increasing responsibility on individuals to man
 - What are the impacts of including non-traditional investment options (such as ESG, cryptocurrency, and real estate) in retirement portfolios, across different levels of risk aversion?
 - Can an automated system effectively predict and adjust an individual's investment strategy over time, to maximize retirement savings while minimizing tax implications?
 ## Type of Project
-Our project does not necessarily fit into the usual prediction or analysis models. Instead, it uses a dashboard to run simulations based on what users input, showing them how different investment choices could play out over time in a straightforward and interactive way. Some examples of this would displaying a clients efficient frontier beased on the assumptions they put in or showing graphs that display the weights of their portfolio over time between different indexes.
+Our project does not necessarily fit into the usual prediction or analysis models. Instead, it uses a dashboard to run simulations based on what users input, showing them how different investment choices could play out over time in a straightforward and interactive way. Some examples of this would displaying a clients efficient frontier based on the assumptions they put in or showing graphs that display the weights of their portfolio over time between different indexes. Lastly we want to make sure this dashboard is easy to navigate through and easy for a user to learn how to use it by just looking at it for a few seconds.
 
 # Necessary Data
 ## Final Dataset Requirements
