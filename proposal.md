@@ -24,6 +24,8 @@ Raw inputs will be inputs that the user enters into the dashboard. These inputs 
 Raw market data will be cleaned, normalized, and merged to create a comprehensive dataset. We will also then have to calculate annualized returns and volatility and Beta for each security. This may be difficult as some indexes have not been around for a long time, which brings up the question of how we get an annualized return. For example, Bitcoin ETFs are very new, so it will be difficult to generate an accurate annualized return. To account for this, we will need to research historical data and potentially have to create our own assumptions.
 
 # What the Dashboard Will Look Like
+## Summary 
+Below are the various inputs and outputs of our wealth advisor dashboard. Enjoy :)
 ## Inputs
 - Age
 - Retirement age
