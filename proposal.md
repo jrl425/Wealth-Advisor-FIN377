@@ -51,6 +51,8 @@ Below are the various inputs and outputs of our wealth advisor dashboard. Enjoy 
     - There will be a list of outputs showing total portfolio value, tax implications, yearly withdrawal amount.
 # What it will look like
 ![Example Image](Example_Photo.jpg)
+## How We Will Do This
+The top graph with be created by creating a model or using ML to find the optimal portfolio that maximizes the utility function of the user. This will be done by testing portfolio allocations of all kinds. For example, we would test 95% QQQ and 5% Risk Free, then 94% QQQ and 6% risk free, and so on. This would be done for each combination of risky and risk free asset. There will likely be around 10 risky assets and between 1 and 3 risk free assets. The portfolio expected return and variance will then be calculated using weighted averages. Then, we will be able to calculate the user's utility since we will have their risk aversion coef., expected return and variance. 
 ## Caveat
 While our team is fully committed to this project, we understand the importance of flexibility. If data availability or project complexity becomes a significant obstacle, we're open to considering alternative research directions. Our goal is to deliver valuable insights/research, and we're prepared to adjust course as needed to ensure a successful outcome of this goal.
 
