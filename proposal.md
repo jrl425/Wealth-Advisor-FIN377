@@ -14,6 +14,7 @@ Our project does not necessarily fit into the usual prediction or analysis model
 - Sample Period: The average expected return, sigma, beta over a timeframe that is long enough to generate an accurate assumption. (5/10 years) This depends on the security.  
 - Sample Conditions: Historical data from each security will be in a different dataset and we will calculate the necessary statistics needed for our final dataset and model.
 - Necessary Variables: Historical returns, volatility (standard deviation), beta, tax rates, and dividend yields, potentially fees associated with ETFs.
+
 | Ticker | Beta | Expected Return | Div. Yield |
 |--------|------|-----------------|------------|
 | QQQ    | 1.04 | 0.1245          | 0.04       |
