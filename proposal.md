@@ -15,9 +15,9 @@ Our project does not necessarily fit into the usual prediction or analysis model
 - Sample Conditions: Historical data from each security will be in a different dataset and we will calculate the necessary statistics needed for our final dataset and model.
 - Necessary Variables: Historical returns, volatility (standard deviation), beta, tax rates, and dividend yields, potentially fees associated with ETFs.
 
-| Ticker | Beta | Expected Return | Div. Yield |
-|--------|------|-----------------|------------|
-| QQQ    | 1.04 | 0.1245          | 0.04       |
+| Ticker | Beta | Expected Return | Div. Yield | Variance |
+|--------|------|-----------------|------------| ---------|
+| QQQ    | 1.04 | 0.1245          | 0.04       | .08      |
 
 ## Data Availability
 All historical data this is needed is publicly accessible. We also have current dividend yields and tax rates. Since our dashboard will be for the future, we may have to modify these rates as they will change in the future and the future rates are not available. 
