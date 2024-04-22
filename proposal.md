@@ -4,7 +4,7 @@ The broader issue at hand is the increasing responsibility on individuals to man
 ## Specific Research Questions
 - How can we provide individual investors with a personalized, optimal investment portfolio that aligns with their retirement goals, risk tolerance, and market outlook, without the need for a financial advisor?
 - What are the impacts of including non-traditional investment options (such as ESG, cryptocurrency, and real estate) in retirement portfolios, across different levels of risk aversion?
-- What portfolio allocation maximizes the utility function for an investor based on a certain number of ETF's and risk-free assets.
+- What portfolio allocation maximizes the utility function for an investor based on a certain number of ETF's and risk-free assets?
 ## Type of Project
 Our project does not necessarily fit into the usual prediction or analysis models. Instead, it uses a dashboard to run simulations based on what users input, showing them how different investment choices could play out over time in a straightforward and interactive way. Some examples of this would displaying a client's efficient frontier based on the assumptions they put in or showing graphs that display the weights of their portfolio over time between different indexes. Lastly, we want to make sure this dashboard is easy to navigate through and easy for a user to learn how to use it by just looking at it for a few seconds. 
 
@@ -49,7 +49,8 @@ Below are the various inputs and outputs of our wealth advisor dashboard. Enjoy 
 - Projected Retirement Savings: A graph or series of graphs showing projected growth of the portfolio over time, including contributions and expected returns
     - This graph will be interactive so the user can look at each year and each corresponding portfolio value. 
     - There will be a list of outputs showing total portfolio value, tax implications, yearly withdrawal amount.
-## Ca
+## Caveat
+
 
 
 
