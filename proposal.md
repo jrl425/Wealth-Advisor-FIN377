@@ -50,7 +50,7 @@ Below are the various inputs and outputs of our wealth advisor dashboard. Enjoy 
     - This graph will be interactive so the user can look at each year and each corresponding portfolio value. 
     - There will be a list of outputs showing total portfolio value, tax implications, yearly withdrawal amount.
 ## Caveat
-
+While our team is fully committed to this project, we understand the importance of flexibility. If data availability or project complexity becomes a significant obstacle, we're open to considering alternative research directions. Our goal is to deliver valuable insights/research, and we're prepared to adjust course as needed to ensure a successful outcome of this goal.
 
 
 
