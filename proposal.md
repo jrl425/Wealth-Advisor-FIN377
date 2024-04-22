@@ -31,7 +31,7 @@ Raw market data will be cleaned, normalized, and merged to create a comprehensiv
 Below are the various inputs and outputs of our wealth advisor dashboard. Enjoy :)
 ## Inputs
 ### Portfolio Allocation
-- Risk Tolerance(Some sort of scale related to this)
+- Risk Tolerance 
     - We will give the user a risk-aversion quiz that will allow us to calculate their risk-aversion coefficient. This coefficient will be used to determine their optimal portfolio allocation.
 - Potentially: Market Outlook(Some sort of scale related to what the clients outlook on the market is)
     - We may use this as another factor when determining the user's risk-aversion coefficient.
@@ -44,7 +44,7 @@ Below are the various inputs and outputs of our wealth advisor dashboard. Enjoy 
 - Preference for specific types of investments (e.g., Cryptocurrency, Real Estate, ESG)
 ## Outputs
 - Portfolio Allocation: Graphs showing the allocation of investments across different asset classes (stocks, bonds, real estate, etc.) 
-- and/or (unsure which would be more inciteful at this time)
+- and/or (unsure which would be more insightful at this time)
 - Efficient Frontier Visualization: A plot displaying the efficient frontier based on the user’s risk tolerance and investment preferences, helping them understand the risk/reward trade-off
 - Projected Retirement Savings: A graph or series of graphs showing projected growth of the portfolio over time, including contributions and expected returns
     - This graph will be interactive so the user can look at each year and each corresponding portfolio value. 
