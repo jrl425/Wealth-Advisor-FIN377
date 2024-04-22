@@ -25,7 +25,7 @@ Our project does not necessarily fit into the usual prediction or analysis model
 ## Data Availability
 All historical data this is needed is publicly accessible. We also have current dividend yields and tax rates. Since our dashboard will be for the future, we may have to modify these rates as they will change in the future and the future rates are not available. 
 ## Data Collection
-Additional data will be collected through public financial databases. For example, CRSP, Yahoo Finance, etc..
+Additional data will be collected through public financial databases. For example, CRSP, Yahoo Finance, etc.. We will then calculate all of the necessary calculations and import them to the final dataframe. 
 ## Raw Inputs and Storage
 ### Portfolio Allocation 
 There will be a short quiz that the user will take, allowing us to assign a risk-aversion coefficient to them. 
