@@ -43,13 +43,13 @@ Below are the various inputs and outputs of our wealth advisor dashboard. Enjoy 
     - We will give the user a risk-aversion quiz that will allow us to calculate their risk-aversion coefficient. This coefficient will be used to determine their optimal portfolio allocation.
 - Potentially: Market Outlook(Some sort of scale related to what the clients outlook on the market is)
     - We may use this as another factor when determining the user's risk-aversion coefficient.
+- Potentially: Preference for specific types of investments (e.g., Cryptocurrency, Real Estate, ESG)
 ### Investment Growth
 - Age
 - Retirement age
 - Desired retirement income(Taxed or Pretaxed)
 - Money to Invest
 - Annual contribution to investment
-- Preference for specific types of investments (e.g., Cryptocurrency, Real Estate, ESG)
 ## Outputs
 - Portfolio Allocation: Graphs showing the allocation of investments across different asset classes (stocks, bonds, real estate, etc.) 
 - and/or (unsure which would be more insightful at this time)
